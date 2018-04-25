@@ -1,5 +1,6 @@
 #!/bin/bash
 
+IFS=$'\n'
 LIST=list
 RANSOM=ransom.html
 IMAGE=bg.jpg
